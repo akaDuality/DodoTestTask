@@ -55,6 +55,8 @@
 		1E0174BE25C826A1008D22D6 /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
 		1E01783225C82993008D22D6 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 		1E01784025C82AAD008D22D6 /* Bonuses.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Bonuses.json; sourceTree = "<group>"; };
+		1E0190E625C931CA008D22D6 /* Main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Main.png; sourceTree = "<group>"; };
+		1E0190E725C931D8008D22D6 /* Detail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Detail.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,6 +158,8 @@
 			children = (
 				1E01783225C82993008D22D6 /* Readme.md */,
 				1E0174BE25C826A1008D22D6 /* Network.swift */,
+				1E0190E625C931CA008D22D6 /* Main.png */,
+				1E0190E725C931D8008D22D6 /* Detail.png */,
 				1E01784025C82AAD008D22D6 /* Bonuses.json */,
 			);
 			path = Task;
